@@ -16,5 +16,15 @@
   "launch":{
     "active_list": ["D:\\Program Files\\Programs\\ExampleProgram\\main.exe"],
     "unactive_list": []
+  },
+  "verify": {
+    "ExampleProgram": {
+      "Files": [
+        {
+          "path":"D:\\Program Files\\Programs\\ExampleProgram\\main.exe",
+          "SHA256": "19ab04dc561f1660d04cc07df1cfd52b1732a541fb6bdc16a9518fe8c395197d"
+        }
+      ]
+    }
   }
 }

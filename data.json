@@ -9,12 +9,12 @@
       "ExampleProgram":{
         "download":"https://github.com/mengyu-awa/mywebsite/releases/download/ExampleProgramInstaller_1/ExampleProgramInstall.exe",
         "latest_version":0,
-        "program_path":"D:\Program Files\Programs\ExampleProgram"
+        "program_path":"D:\\Program Files\\Programs\\ExampleProgram"
       }
     }
   }
   "launch":{
-    "active_list": ["D:\Program Files\Programs\ExampleProgram\main.exe"],
+    "active_list": ["D:\\Program Files\\Programs\\ExampleProgram\\main.exe"],
     "unactive_list": []
   }
 }

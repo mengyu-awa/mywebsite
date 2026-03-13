@@ -6,4 +6,8 @@
   "others": {
     "list": []
   }
+  "launch":{
+    "active_list": [],
+    "unactive_list": []
+  }
 }

@@ -12,7 +12,7 @@
         "program_path":"D:\\Program Files\\Programs\\ExampleProgram"
       }
     }
-  }
+  },
   "launch":{
     "active_list": ["D:\\Program Files\\Programs\\ExampleProgram\\main.exe"],
     "unactive_list": []

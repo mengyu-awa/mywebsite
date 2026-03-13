@@ -7,7 +7,7 @@
     "list": ["ExampleProgram"],
     "Programs":{
       "ExampleProgram":{
-        "download":"https://github.com/mengyu-awa/mywebsite/releases/download/ExampleProgramInstaller_1/ExampleProgramInstall.exe",
+        "download":"https://github.com/mengyu-awa/mywebsite/releases/download/ExampleProgramInstaller/install.exe",
         "latest_version":0,
         "program_path":"D:\\Program Files\\Programs\\ExampleProgram"
       }

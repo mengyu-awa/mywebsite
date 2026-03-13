@@ -1,7 +1,7 @@
 {
   "main": {
     "version": 0,
-    "download": "https://github.com/mengyu-awa/mywebsite/releases/download/test/setup.exe"
+    "download": "https://github.com/mengyu-awa/mywebsite/releases/download/MainUpdater-v1_0_0/install_program.exe"
   },
   "others": {
     "list": ["ExampleProgram"],

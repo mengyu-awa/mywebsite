@@ -14,8 +14,8 @@
     }
   },
   "launch":{
-    "active_list": [],
-    "unactive_list": ["D:\\Program Files\\Programs\\ExampleProgram\\main.exe"]
+    "active_list": ["D:\\Program Files\\Programs\\ExampleProgram\\main.exe"],
+    "unactive_list": []
   },
   "verify": {
     "ExampleProgram": {

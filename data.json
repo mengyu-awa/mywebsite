@@ -4,17 +4,22 @@
     "download": "https://github.com/mengyu-awa/mywebsite/releases/download/MainUpdater-v1_0_0/install_program.exe"
   },
   "others": {
-    "list": ["ExampleProgram"],
+    "list": ["ExampleProgram", "WallPaper"],
     "Programs":{
       "ExampleProgram":{
         "download":"https://github.com/mengyu-awa/mywebsite/releases/download/ExampleProgramInstaller/install.exe",
         "latest_version":0,
         "program_path":"D:\\Program Files\\Programs\\ExampleProgram\\"
+      },
+      "WallPaper": {
+        "download": "https://github.com/mengyu-awa/mywebsite/releases/download/WallPaper_0.1.0/install.exe",
+        "latest_version": 0,
+        "program_path": "D:\\Program Files\\Programs\\WallPaper\\"
       }
     }
   },
   "launch":{
-    "active_list": [],
+    "active_list": ["D:\\Program Files\\Programs\\WallPaper\\WallPaperMain.exe"],
     "unactive_list": ["D:\\Program Files\\Programs\\ExampleProgram\\main.exe"]
   },
   "verify": {
@@ -23,6 +28,14 @@
         {
           "path":"D:\\Program Files\\Programs\\ExampleProgram\\main.exe",
           "SHA256": "19ab04dc561f1660d04cc07df1cfd52b1732a541fb6bdc16a9518fe8c395197d"
+        }
+      ]
+    },
+    "WallPaper": {
+      "Files": [
+        {
+          "path": "D:\\Program Files\\Programs\\WallPaper\\WallPaperMain.exe",
+          "SHA256": "57fef52963dcefe3bd773fce3ba719e5b33a90a0180cdcaf80251c464531cb16"
         }
       ]
     }

@@ -12,8 +12,8 @@
         "program_path":"D:\\Program Files\\Programs\\ExampleProgram\\"
       },
       "WallPaper": {
-        "download": "https://github.com/mengyu-awa/mywebsite/releases/download/WallPaper_0.1.0/install.exe",
-        "latest_version": 0,
+        "download": "https://github.com/mengyu-awa/mywebsite/releases/download/WallPaper_1.0.0/install.exe",
+        "latest_version": 1,
         "program_path": "D:\\Program Files\\Programs\\WallPaper\\"
       }
     }
@@ -35,7 +35,7 @@
       "Files": [
         {
           "path": "D:\\Program Files\\Programs\\WallPaper\\WallPaperMain.exe",
-          "SHA256": "57fef52963dcefe3bd773fce3ba719e5b33a90a0180cdcaf80251c464531cb16"
+          "SHA256": "f8031c4006b2cbc4aed5ee7859f94b233fc085f8aed34b21925ae79510533a63"
         }
       ]
     }

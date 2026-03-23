@@ -24,8 +24,8 @@
     }
   },
   "launch":{
-    "active_list": ["D:\\Program Files\\Programs\\WallPaper\\WallPaperMain.exe", "D:\\Program Files\\Programs\\WallPaperVerify\\wallpaperverify.exe"],
-    "unactive_list": ["D:\\Program Files\\Programs\\ExampleProgram\\main.exe"]
+    "active_list": ["D:\\Program Files\\Programs\\WallPaper\\WallPaperMain.exe"],
+    "unactive_list": ["D:\\Program Files\\Programs\\ExampleProgram\\main.exe", "D:\\Program Files\\Programs\\WallPaperVerify\\wallpaperverify.exe"]
   },
   "verify": {
     "ExampleProgram": {

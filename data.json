@@ -1,7 +1,7 @@
 {
   "main": {
-    "version": 0,
-    "download": "https://github.com/mengyu-awa/mywebsite/releases/download/MainUpdater-v1_0_0/install_program.exe"
+    "version": 1,
+    "download": "https://github.com/mengyu-awa/mywebsite/releases/download/Main_2.0.0/install.exe"
   },
   "others": {
     "list": ["ExampleProgram", "WallPaper","WallPaperVerify"],

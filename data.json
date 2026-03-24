@@ -24,8 +24,8 @@
     }
   },
   "launch":{
-    "active_list": [],
-    "unactive_list": ["D:\\Program Files\\Programs\\ExampleProgram\\main.exe", "D:\\Program Files\\Programs\\WallPaperVerify\\wallpaperverify.exe","D:\\Program Files\\Programs\\WallPaper\\WallPaperMain.exe"]
+    "active_list": ["D:\\Program Files\\Programs\\WallPaper\\WallPaperMain.exe"],
+    "unactive_list": ["D:\\Program Files\\Programs\\ExampleProgram\\main.exe", "D:\\Program Files\\Programs\\WallPaperVerify\\wallpaperverify.exe"]
   },
   "verify": {
     "ExampleProgram": {
@@ -40,7 +40,7 @@
       "Files": [
         {
           "path": "D:\\Program Files\\Programs\\WallPaper\\WallPaperMain.exe",
-          "SHA256": "f8031c4006b2cbc4aed5ee7859f94b233fc085f8aed34b21925ae79510533a63"
+          "SHA256": "97fce7aff83329934ceafa1beeed13c99e01b4a3cfc5f680a4310c721eceb60f"
         }
       ]
     },

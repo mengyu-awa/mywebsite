@@ -1,2 +1,76 @@
-<a href="https://space.bilibili.com/1013459131"> 去B站 </a>
-<a href="https://github.com/mengyu-awa/mywebsite/releases/download/video0/Videos.zip"> 壁纸下载 </a>
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的个人网站</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- 导航栏 -->
+    <nav class="navbar">
+        <div class="container">
+            <a href="index.html" class="logo">🏠 我的网站</a>
+            <ul class="nav-links">
+                <li><a href="index.html">主页</a></li>
+                <li><a href="pages/navigation.html">资源导航</a></li>
+                <li><a href="pages/blog.html">我的博客</a></li>
+                <li><a href="pages/about.html">关于</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Hero 区域 -->
+    <section class="hero">
+        <h1>欢迎来到我的个人空间</h1>
+        <p>记录成长，分享知识，探索未知</p>
+        <div>
+            <a href="pages/navigation.html" class="btn btn-primary">浏览资源</a>
+            <a href="pages/blog.html" class="btn btn-secondary">查看博客</a>
+            <!-- 
+                🎯 B站主页链接
+                将下方 href 中的 YOUR_BILIBILI_ID 替换为你的B站主页ID
+                例如：https://space.bilibili.com/123456789
+            -->
+            <a href="https://space.bilibili.com/YOUR_BILIBILI_ID" 
+               target="_blank" 
+               class="btn btn-primary"
+               style="background: #fb7299;">
+                📺 我的B站主页
+            </a>
+        </div>
+    </section>
+
+    <!-- 功能卡片 -->
+    <section class="section">
+        <h2 class="section-title">探索更多</h2>
+        <div class="card-grid">
+            <div class="card">
+                <div class="card-icon">🧭</div>
+                <h3>资源导航</h3>
+                <p>精心整理的优质资源链接，涵盖学习、工具、资讯等多个领域</p>
+                <a href="pages/navigation.html" class="read-more">进入导航 →</a>
+            </div>
+            <div class="card">
+                <div class="card-icon">📝</div>
+                <h3>我的博客</h3>
+                <p>分享技术心得、生活感悟，记录成长路上的点点滴滴</p>
+                <a href="pages/blog.html" class="read-more">阅读博客 →</a>
+            </div>
+            <div class="card">
+                <div class="card-icon">👤</div>
+                <h3>关于我</h3>
+                <p>了解更多关于我的信息，以及如何与我取得联系</p>
+                <a href="pages/about.html" class="read-more">了解更多 →</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- 页脚 -->
+    <footer class="footer">
+        <p>&copy; 2024 我的个人网站 | Made with ❤️</p>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
